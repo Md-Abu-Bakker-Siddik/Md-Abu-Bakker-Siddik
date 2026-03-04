@@ -23,7 +23,7 @@ I have successfully completed projects in multiple sectors:
 - **Hospitality & SaaS:** Hotalo, Saasweb, Transfox 
 
 ### 📫 How to reach me:
-- 📧 Email: DEJmdabubakkers99@gmail.com 
+- 📧 Email: mdabubakkers99@gmail.com 
 - 📞 Phone: +8801911500125 
 - 🔗 [LinkedIn Profile](https://linkedin.com/in/your-profile-link) 
 -🌐 [Personal Website](https://your-website-link.com) 
