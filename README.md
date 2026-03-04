@@ -25,5 +25,5 @@ I have successfully completed projects in multiple sectors:
 ### 📫 How to reach me:
 - 📧 Email: mdabubakkers99@gmail.com 
 - 📞 Phone: +8801911500125 
-- 🔗 [LinkedIn Profile](www.linkedin.com/in/md-abu-bakker-siddik) 
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/md-abu-bakker-siddik)
 -🌐 [Personal Website](https://md-abu-bakker-siddik.github.io/my-website/) 
