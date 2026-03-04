@@ -1,4 +1,3 @@
-Professional Summary
 "I am a Senior Web Developer with over 8 years of experience in the industry. I specialize in creating fully dynamic, responsive, and high-performance websites. My expertise lies in converting designs (Figma/PSD) into functional WordPress sites using Elementor."
 
 
