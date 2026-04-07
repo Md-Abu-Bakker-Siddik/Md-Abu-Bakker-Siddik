@@ -1,29 +1,30 @@
 # Hi there, I'm Md Abu Bakker Siddik 👋
-## Sr. Web Developer & WordPress Expert from Khulna, Bangladesh 🇧🇩
+## Senior WordPress Developer | AI-Driven Web Development | Remote Ready 🇧🇩
 
-I am a results-driven Senior Web Developer with over 9+ years of experience specializing in WordPress Development. I have a proven track record of transforming complex designs from PSD and Figma into fully dynamic, pixel-perfect websites.
+I am a results-driven **Senior WordPress Developer** with over **9+ years** of experience[cite: 8]. I specialize in transforming Figma and PSD designs into pixel-perfect, high-performance dynamic websites[cite: 10, 21]. Currently, I am leveraging **AI-native development workflows** using Cursor, ChatGPT, and Gemini to accelerate coding speed and improve code quality.
 
 ### 🚀 Quick Highlights
-- 🔭 Currently working as a **Sr. Web Developer** at **thememascot**
-- 💼 7 years of core experience at **template_path** focusing on premium theme development
-- ⚡ Expert in **Elementor Pro**, **PHP**, and modern styling tools to deliver high-performance solutions
-- 🌍 Successfully delivered projects for global clients across various industries
+* 🔭 **Current Role:** Serving as a Senior WordPress Developer at **ThemeMascot** since January 2024.
+* 💼 **Previous Experience:** Worked as a core developer at **TemplatePath** for over 7 years, delivering **70+ premium projects**.
+* ✅ **Total Impact:** Successfully delivered **100+ professional projects** and contributed to **32+ premium marketplace themes**.
+* 🤖 **AI Workflow:** Expert in AI-assisted development, code refactoring, and efficient debugging.
 
 ### 🛠 Technical Skills
-- **CMS:** WordPress, Elementor, Elementor Pro 
-- **Web Technologies:** PHP, JavaScript, HTML, CSS 
-- **Styling:** SCSS, SASS 
-- **Design Conversion:** PSD/Figma to WordPress, Dynamic Website Creation 
+* **CMS & Themes:** Custom WordPress Development, Elementor & Elementor Pro Template Development.
+* **Languages & Backend:** PHP (WordPress Core), JavaScript, jQuery, and HTML5.
+* **Modern Styling:** SCSS, BEM Architecture, Flexbox, and Grid.
+* **Performance:** Website Speed Optimization and SEO-friendly structures.
 
-### 📂 Featured Project Experience
-I have successfully completed projects in multiple sectors:
-- **Corporate & IT:** Orenburg, Biztech, Techix 
-- **Healthcare:** Clinmedix, Optcare, Doclik 
-- **Construction & Real Estate:** RinBuild, Rooftex, Apartio 
-- **Hospitality & SaaS:** Hotalo, Saasweb, Transfox 
+### 📂 Selected Project Experience
+I have successfully completed projects across various sectors:
+* **Corporate / IT:** Orenburg, Biztech, Techix.
+* **Healthcare:** Clinmedix, Optcare, Doclik, Docpro.
+* **SaaS & Logistics:** Saasweb, Transfox.
+* **Real Estate:** RinBuild, Rooftex, Apartio.
+* **Premium Templates:** Timisoara, Roofplan, Printify.
 
 ### 📫 How to reach me:
-- 📧 Email: mdabubakkers99@gmail.com 
-- 📞 Phone: +8801911500125 
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/md-abu-bakker-siddik)
--🌐 [Personal Website](https://md-abu-bakker-siddik.github.io/my-website/) 
+* 📧 **Email:** mdabubakkers99@gmail.com
+* 📞 **Phone:** +8801911500125
+* 📍 **Location:** Khulna, Bangladesh
+* 🔗 **Profiles:** [LinkedIn](https://www.linkedin.com/in/md-abu-bakker-siddik) | [GitHub](https://github.com/md-abu-bakker-siddik) | [Portfolio](https://md-abu-bakker-siddik.github.io/my-website/)
