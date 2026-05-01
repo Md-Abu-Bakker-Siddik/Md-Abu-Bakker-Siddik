@@ -1,6 +1,6 @@
 # Hi there, I'm Md Abu Bakker Siddik 👋
 
-## Senior WordPress Developer | AI-Driven Web Development | Remote Ready 🇧🇩
+## Senior WordPress Developer | AI-Driven Web Development | Remote Ready
 
 I am a results-driven **Senior WordPress Developer** with over **9+ years of experience** building high-performance, scalable websites for global clients. I specialize in transforming Figma and PSD designs into pixel-perfect, fully responsive WordPress solutions.
 
