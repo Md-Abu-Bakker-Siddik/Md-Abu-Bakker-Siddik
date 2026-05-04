@@ -1,95 +1,140 @@
-# Hi there, I'm Md Abu Bakker Siddik 👋
+# 👋 Hi, I'm Md Abu Bakker Siddik
 
-## Senior WordPress Developer | AI-Driven Web Development | Remote Ready
+### 🚀 Senior WordPress Developer | AI-Driven Development | Remote Ready
 
-I am a results-driven **Senior WordPress Developer** with over **9+ years of experience** building high-performance, scalable websites for global clients. I specialize in transforming Figma and PSD designs into pixel-perfect, fully responsive WordPress solutions.
+I’m a results-driven **Senior WordPress Developer** with **9+ years of experience** building high-performance, scalable websites for global clients and agencies.
 
-Currently, I leverage **AI-powered development workflows** using Cursor, ChatGPT, and Gemini to accelerate development, improve code quality, and solve complex problems efficiently.
+I specialize in transforming **Figma / PSD designs into pixel-perfect WordPress solutions**, and I actively leverage **AI-powered workflows** (ChatGPT, Cursor, Gemini) to accelerate development and improve code quality.
 
 ---
 
-## 🚀 Quick Highlights
+## 🔥 Quick Highlights
 
-* 🔭 **Current Role:** Senior WordPress Developer at **ThemeMascot** (Jan 2024 – Present)
-* 💼 **Previous Experience:** Core Developer at **TemplatePath** (7+ years)
-* ✅ **Projects Delivered:** 100+ professional websites
+* 🔭 **Currently:** Senior WordPress Developer at **ThemeMascot**
+* 💼 **Experience:** 9+ years in WordPress development
+* ✅ **Projects Delivered:** 100+ websites
 * 🎯 **Theme Contributions:** 32+ premium marketplace themes
-* 🤖 **AI Workflow:** AI-assisted development, debugging, and code optimization
+* 🤖 **AI Workflow:** AI-assisted coding, debugging & optimization
+* 🌍 **Availability:** Open for remote & international opportunities
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
-### **WordPress Development**
+### 🧩 WordPress
 
-Custom Themes • Plugin Development • Gutenberg Block Development • Elementor & Elementor Pro
+* Custom Theme Development
+* Plugin Development
+* Gutenberg Block Development (React)
+* Elementor & Elementor Pro
+* WooCommerce Customization
 
-### **Frontend Development**
+### 🎨 Frontend
 
-HTML5 • CSS3 • JavaScript • jQuery • React (Gutenberg Blocks)
+* HTML5, CSS3, SCSS (BEM)
+* JavaScript, jQuery
+* Responsive Design (Flexbox, Grid)
 
-### **Backend Development**
+### ⚙️ Backend
 
-PHP • WordPress Core • Custom Plugin Architecture
+* PHP
+* WordPress Core Customization
+* Custom Plugin Architecture
 
-### **Design to Code**
+### 🎯 Design to Code
 
-Figma to WordPress • PSD to WordPress • Pixel-Perfect Conversion
+* Figma → WordPress
+* PSD → WordPress
+* Pixel-perfect responsive implementation
 
-### **Modern Styling & Layout**
+### ⚡ Performance
 
-SCSS • BEM Architecture • Flexbox • CSS Grid
+* Core Web Vitals Optimization
+* Speed Optimization
+* SEO-friendly structure
+* Clean & maintainable code
 
-### **Performance Optimization**
+### 🤖 AI Workflow
 
-Website Speed Optimization • SEO-Friendly Structure • Clean Coding Standards
-
-### **AI Development Workflow**
-
-Cursor • ChatGPT • Gemini • Code Refactoring • Debugging Automation
+* ChatGPT
+* Cursor
+* Gemini
+* Debugging & Code Refactoring
 
 ---
 
-## 📂 Selected Project Experience
+## 📂 Featured Projects
 
-I have successfully worked across multiple industries:
+### 🔹 Sweem Block – Gutenberg Plugin
 
-* **Corporate / IT:** Orenburg, Biztech, Techix
-* **Healthcare:** Clinmedix, Optcare, Doclik, Docpro
-* **SaaS & Logistics:** Saasweb, Transfox
-* **Real Estate:** RinBuild, Rooftex, Apartio
-* **Premium Templates:** Timisoara, Roofplan, Printify
+* Built reusable Gutenberg blocks using React
+* Developed scalable & dynamic components
+* Followed modern block editor standards
+
+🔗 https://github.com/Md-Abu-Bakker-Siddik/sweem-block
 
 ---
-
-## 📌 Featured Projects
-
-### 🔹 Sweem Block – Custom Gutenberg Block Plugin
-
-* Developed reusable Gutenberg blocks using modern WordPress block editor
-* Built scalable and dynamic content components
-* Used React-based architecture for flexibility and performance
 
 ### 🔹 Starter Plugin – WordPress Boilerplate
 
-* Created a clean and scalable plugin structure
-* Followed best practices (hooks, filters, modular coding)
-* Optimized for faster plugin development workflow
+* Modular & scalable plugin architecture
+* Clean structure using hooks & filters
+* Speeds up custom plugin development
+
+🔗 https://github.com/Md-Abu-Bakker-Siddik/starter-plugin
 
 ---
 
-## 📫 Connect with Me
+### 🔹 Six2eight Elements
+
+* Figma to Elementor & Gutenberg implementation
+* Pixel-perfect responsive sections
+* Performance-focused structure
+
+🔗 https://github.com/Md-Abu-Bakker-Siddik/six2eight-elements
+
+---
+
+## 🏢 Experience
+
+### **Senior WordPress Developer** — ThemeMascot *(Jan 2024 – Present)*
+
+* Developed 32+ premium WordPress themes
+* Built high-performance scalable websites
+* Improved workflow using AI tools
+
+### **Senior WordPress Developer** — TemplatePath *(2016 – 2023)*
+
+* Delivered 70+ professional projects
+* Converted complex UI/UX into WordPress
+* Collaborated with global teams
+
+---
+
+## 🌍 Industries Worked With
+
+* 💼 Corporate / IT
+* 🏥 Healthcare
+* 🚚 SaaS & Logistics
+* 🏠 Real Estate
+* 🧩 Premium Templates
+
+---
+
+## 📫 Connect With Me
 
 * 📧 Email: [mdabubakkers99@gmail.com](mailto:mdabubakkers99@gmail.com)
 * 📞 Phone: +8801911500125
-* 📍 Location: Khulna, Bangladesh
-
-🔗 **Profiles:**
-
-* LinkedIn: https://www.linkedin.com/in/md-abu-bakker-siddik
-* GitHub: https://github.com/Md-Abu-Bakker-Siddik
-* Portfolio: https://md-abu-bakker-siddik.github.io/my-website/
+* 🌐 Portfolio: https://md-abu-bakker-siddik.github.io/my-website/
+* 💼 LinkedIn: https://www.linkedin.com/in/md-abu-bakker-siddik
+* 💻 GitHub: https://github.com/Md-Abu-Bakker-Siddik
 
 ---
 
-⭐ *Open to remote opportunities and international collaboration*
+## ⭐ Fun Fact
+
+I combine **traditional WordPress expertise + AI tools** to deliver faster, cleaner, and smarter development solutions.
+
+---
+
+⭐ *Open to remote work, freelance projects, and long-term collaboration*
