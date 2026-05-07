@@ -125,7 +125,7 @@ I specialize in transforming **Figma / PSD designs into pixel-perfect WordPress 
 
 * 📧 Email: [mdabubakkers99@gmail.com](mailto:mdabubakkers99@gmail.com)
 * 📞 Phone: +8801911500125
-* 🌐 Portfolio: https://md-abu-bakker-siddik.github.io/my-website/
+* 🌐 Portfolio: [https://md-abu-bakker-siddik.github.io/]
 * 💼 LinkedIn: https://www.linkedin.com/in/md-abu-bakker-siddik
 * 💻 GitHub: https://github.com/Md-Abu-Bakker-Siddik
 
