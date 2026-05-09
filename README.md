@@ -1,342 +1,141 @@
-👋 Hi, I'm Md Abu Bakker Siddik
-🚀 Senior WordPress Developer | AI-Driven Development | Remote Ready
-I’m a results-driven Senior WordPress Developer with 9+ years of experience building high-performance, scalable websites for global clients, agencies, and SaaS startups.
-I specialize in transforming Figma / PSD designs into pixel-perfect WordPress solutions, while leveraging AI-powered development workflows using ChatGPT, Cursor, and Gemini to improve productivity, code quality, and rapid prototyping.
+# 👋 Hi, I'm Md Abu Bakker Siddik
 
-🔥 Quick Highlights
+### 🚀 Senior WordPress Developer | AI-Driven Development | Remote Ready
 
+I’m a results-driven **Senior WordPress Developer** with **9+ years of experience** building high-performance, scalable websites for global clients, agencies, and SaaS startups.
 
-🔭 Currently: Senior WordPress Developer at ThemeMascot
+I specialize in transforming **Figma / PSD designs into pixel-perfect WordPress solutions**, while leveraging **AI-powered workflows** using ChatGPT, Cursor, and Gemini to improve productivity, code quality, and rapid prototyping.
 
+---
 
-💼 Experience: 9+ years in WordPress development
+## 🔥 Quick Highlights
 
+- 🔭 Senior WordPress Developer at **ThemeMascot**
+- 💼 9+ Years of WordPress Experience
+- ✅ Delivered **142+ Professional Projects**
+- 🎯 Contributed to **42+ Premium WordPress Themes**
+- 🤖 AI-Assisted Development Workflow
+- 🌍 Open to Remote & International Opportunities
 
-✅ Projects Delivered: 142+ professional websites
+---
 
+## 🛠 Tech Stack
 
-🎯 Theme Contributions: 42+ premium marketplace themes
+### 🧩 WordPress
+`Custom Themes` `Plugin Development` `Gutenberg` `Elementor` `WooCommerce`
 
+### 🎨 Frontend
+`HTML5` `CSS3` `SCSS` `JavaScript` `jQuery` `Responsive Design`
 
-🤖 AI Workflow: AI-assisted coding, debugging & optimization
+### ⚙️ Backend & SaaS
+`PHP` `Supabase` `PostgreSQL` `REST API` `Vercel`
 
+### 🤖 AI Workflow
+`ChatGPT` `Cursor` `Gemini` `Prompt Engineering`
 
-🌍 Availability: Open for remote & international opportunities
+---
 
+## 📂 Featured Projects
 
+### 🔹 SmartCV AI
+AI-powered CV Builder SaaS with Supabase, PostgreSQL & AI integration.
 
-🛠 Tech Stack
-🧩 WordPress Development
+🔗 GitHub:  
+https://github.com/Md-Abu-Bakker-Siddik/smartcv-ai
 
+🔗 Live Demo:  
+https://smartcv-ai-beige.vercel.app/
 
-Custom Theme Development
+---
 
+### 🔹 Sweem Block
+Reusable Gutenberg Block Plugin built with React.
 
-Plugin Development
+🔗 GitHub:  
+https://github.com/Md-Abu-Bakker-Siddik/sweem-block
 
+---
 
-Gutenberg Block Development (React)
+### 🔹 Starter Plugin
+Scalable WordPress Boilerplate Plugin Architecture.
 
+🔗 GitHub:  
+https://github.com/Md-Abu-Bakker-Siddik/starter-plugin
 
-Elementor & Elementor Pro
+---
 
+### 🔹 Six2eight Elements
+Figma to Elementor & Gutenberg Implementation.
 
-WooCommerce Customization
+🔗 GitHub:  
+https://github.com/Md-Abu-Bakker-Siddik/six2eight-elements
 
+---
 
-Child Theme Development
+### 🔹 Vibe UI SaaS
+Modern AI-assisted SaaS Dashboard Prototype.
 
+🔗 GitHub:  
+https://github.com/Md-Abu-Bakker-Siddik/vibe-ui-saas
 
-WordPress Core Customization
+🔗 Live Demo:  
+https://vibe-ui-saas.vercel.app/
 
+---
 
+## 🏢 Experience
 
-🎨 Frontend Development
+### Senior WordPress Developer — ThemeMascot
+📅 Jan 2024 – Present
 
+- Developed 42+ premium WordPress themes
+- Built scalable & high-performance websites
+- Worked with Gutenberg & advanced WP architecture
+- Improved workflows using AI tools
 
-HTML5
+---
 
+### Senior WordPress Developer — TemplatePath
+📅 Jun 2016 – Dec 2023
 
-CSS3
+- Delivered 142+ professional projects
+- Converted complex UI/UX into WordPress
+- Built scalable custom themes & systems
+- Collaborated with global teams
 
+---
 
-SCSS (BEM Methodology)
+## 🌍 Industries
 
+`Corporate` `Healthcare` `SaaS` `Logistics` `Real Estate` `Premium Templates`
 
-JavaScript
+---
 
+## 📫 Connect With Me
 
-jQuery
+🌐 Portfolio  
+https://md-abu-bakker-siddik.github.io
 
+💼 LinkedIn  
+https://www.linkedin.com/in/md-abu-bakker-siddik
 
-Responsive Design (Flexbox & CSS Grid)
+💻 GitHub  
+https://github.com/Md-Abu-Bakker-Siddik
 
+📧 Email  
+mdabubakkers99@gmail.com
 
-Cross-Browser Compatibility
+---
 
+## ⭐ Fun Fact
 
-
-⚙️ Backend & SaaS Development
-
-
-PHP
-
-
-Supabase
-
-
-PostgreSQL
-
-
-Authentication Systems
-
-
-REST API Integration
-
-
-Vercel Deployment
-
-
-Environment Configuration
-
-
-
-🎯 Design to Code
-
-
-Figma → WordPress
-
-
-PSD → WordPress
-
-
-Pixel-Perfect Responsive Development
-
-
-Elementor & Gutenberg Implementation
-
-
-
-⚡ Performance & Optimization
-
-
-Core Web Vitals Optimization
-
-
-Speed Optimization
-
-
-SEO-Friendly Architecture
-
-
-Clean & Maintainable Code
-
-
-Scalable Plugin Architecture
-
-
-
-🤖 AI-Assisted Workflow
-
-
-ChatGPT
-
-
-Cursor
-
-
-Gemini
-
-
-Prompt Engineering
-
-
-Rapid Prototyping
-
-
-Debugging & Code Refactoring
-
-
-AI Workflow Integration
-
-
-
-📂 Featured Projects
-🔹 SmartCV AI — AI-Powered CV Builder SaaS
-
-
-Full-stack AI-powered CV Builder SaaS
-
-
-Real-time resume generation & preview
-
-
-Supabase authentication & PostgreSQL integration
-
-
-AI-assisted content generation
-
-
-Fully responsive modern UI
-
-
-🔗 GitHub:
-SmartCV AI Repository
-🔗 Live Demo:
-SmartCV AI Live Demo
-
-🔹 Sweem Block — Gutenberg Plugin
-
-
-Developed reusable Gutenberg blocks using React
-
-
-Built scalable & dynamic components
-
-
-Followed modern WordPress block development standards
-
-
-🔗 GitHub:
-Sweem Block Repository
-
-🔹 Starter Plugin — WordPress Boilerplate
-
-
-Modular & scalable plugin architecture
-
-
-Clean structure using hooks & filters
-
-
-Accelerates custom plugin development
-
-
-🔗 GitHub:
-Starter Plugin Repository
-
-🔹 Six2eight Elements
-
-
-Figma to Elementor & Gutenberg implementation
-
-
-Pixel-perfect responsive sections
-
-
-Performance-focused clean structure
-
-
-🔗 GitHub:
-Six2eight Elements Repository
-
-🔹 Vibe UI SaaS
-
-
-AI-assisted SaaS dashboard prototype
-
-
-Responsive layouts & reusable UI components
-
-
-Modern SaaS interface architecture
-
-
-🔗 GitHub:
-Vibe UI SaaS Repository
-🔗 Live Demo:
-Vibe UI SaaS Live Demo
-
-🏢 Professional Experience
-Senior WordPress Developer — ThemeMascot
-Jan 2024 – Present
-
-
-Developed and contributed to 42+ premium WordPress themes
-
-
-Built scalable and high-performance websites
-
-
-Worked with Gutenberg and advanced WordPress architecture
-
-
-Improved workflow efficiency using AI-assisted development tools
-
-
-
-Senior WordPress Developer — TemplatePath
-Jun 2016 – Dec 2023
-
-
-Delivered 142+ professional WordPress projects
-
-
-Converted complex UI/UX into production-ready WordPress websites
-
-
-Built scalable custom themes and reusable systems
-
-
-Collaborated with international teams and agencies
-
-
-
-🌍 Industries Worked With
-
-
-💼 Corporate / IT
-
-
-🏥 Healthcare
-
-
-🚚 SaaS & Logistics
-
-
-🏠 Real Estate
-
-
-🧩 Premium Templates
-
-
-
-📫 Connect With Me
-
-
-📧 Email: mdabubakkers99@gmail.com
-
-
-📞 Phone: +8801911500125
-
-
-🌐 Portfolio:
-Portfolio Website
-
-
-💼 LinkedIn:
-LinkedIn Profile
-
-
-💻 GitHub:
-GitHub Profile
-
-
-
-⭐ Fun Fact
 I combine traditional WordPress expertise with AI-powered development workflows to build faster, cleaner, and smarter digital solutions.
 
-🚀 Open to
+---
 
+## 🚀 Open To
 
-Remote Full-Time Opportunities
-
-
-International Agencies
-
-
-Freelance Projects
-
-
-Long-Term Collaboration
-
+- Remote Full-Time Roles
+- International Agencies
+- Freelance Projects
+- Long-Term Collaboration
