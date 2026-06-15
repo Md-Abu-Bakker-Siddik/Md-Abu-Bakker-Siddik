@@ -98,7 +98,7 @@ https://vibe-ui-saas.vercel.app/
 ### Senior WordPress Developer — TemplatePath
 📅 Jun 2016 – Dec 2023
 
-- Delivered 142+ professional projects
+- Delivered 100+ professional projects
 - Converted complex UI/UX into WordPress
 - Built scalable custom themes & systems
 - Collaborated with global teams
