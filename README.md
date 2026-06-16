@@ -261,11 +261,11 @@ Scalable WordPress Boilerplate Plugin.
 # 📫 Let's Connect
 
 <p>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://md-abu-bakker-siddik.github.io/" target="_blank">
     🌐 Portfolio
   </a>
   &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/md-abu-bakker-siddik/" target="_blank">
     💼 LinkedIn
   </a>
   &nbsp;•&nbsp;
@@ -274,7 +274,7 @@ Scalable WordPress Boilerplate Plugin.
   </a>
 </p>
 
-<p align="center">
+<p>
   📧 <strong>Email:</strong> mdabubakkers99@gmail.com
 </p>
 
