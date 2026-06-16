@@ -258,21 +258,9 @@ Scalable WordPress Boilerplate Plugin.
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Md-Abu-Bakker-Siddik&show_icons=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Abu-Bakker-Siddik&layout=compact" />
-
-</p>
-
----
-
 # 📫 Let's Connect
 
-<p align="center">
+<p>
   <a href="https://your-portfolio-link.com" target="_blank">
     🌐 Portfolio
   </a>
@@ -294,12 +282,12 @@ Scalable WordPress Boilerplate Plugin.
 
 # 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Abu-Bakker-Siddik&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</p>
+<p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Abu-Bakker-Siddik&layout=compact&hide_border=true" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Md-Abu-Bakker-Siddik&show_icons=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Abu-Bakker-Siddik&layout=compact" />
+
 </p>
 
 ---
