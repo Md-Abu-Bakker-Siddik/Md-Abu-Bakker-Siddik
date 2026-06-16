@@ -273,26 +273,34 @@ Scalable WordPress Boilerplate Plugin.
 # 📫 Let's Connect
 
 <p align="center">
-
-<a href="https://md-abu-bakker-siddik.github.io">
-🌐 Portfolio
-</a>
-
-•
-
-<a href="https://www.linkedin.com/in/md-abu-bakker-siddik">
-💼 LinkedIn
-</a>
-
-•
-
-<a href="https://github.com/Md-Abu-Bakker-Siddik">
-💻 GitHub
-</a>
-
+  <a href="https://your-portfolio-link.com" target="_blank">
+    🌐 Portfolio
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    💼 LinkedIn
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/Md-Abu-Bakker-Siddik" target="_blank">
+    💻 GitHub
+  </a>
 </p>
 
-📧 **Email:** mdabubakkers99@gmail.com
+<p align="center">
+  📧 <strong>Email:</strong> mdabubakkers99@gmail.com
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Md-Abu-Bakker-Siddik&show_icons=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Abu-Bakker-Siddik&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -312,14 +320,10 @@ Scalable WordPress Boilerplate Plugin.
 
 > I combine traditional WordPress expertise with AI-powered development workflows to build faster, cleaner, and smarter digital solutions.
 
-> I genuinely enjoy exploring how tools like ChatGPT, Claude, Cursor, and Gemini can enhance developer productivity while maintaining high-quality, production-ready code.
+> I enjoy leveraging ChatGPT, Claude, Cursor, and Gemini to enhance productivity while maintaining clean, scalable, and production-ready code.
 
 ---
-
-<div align="center">
 
 ### Thanks for visiting my profile! 😊
 
 **Let's build something amazing together.**
-
-</div>
