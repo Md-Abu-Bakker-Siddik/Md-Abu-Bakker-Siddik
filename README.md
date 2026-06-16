@@ -1,187 +1,325 @@
-👋 Hi, I'm Md Abu Bakker Siddik
-🚀 Senior WordPress Developer | AI-Driven Development | Remote Ready
+<div align="center">
 
-I'm a results-driven Senior WordPress Developer with 9+ years of professional experience building high-performance, scalable WordPress solutions for global clients, agencies, and ThemeForest marketplaces.
+# 👋 Hi, I'm Md Abu Bakker Siddik
 
-I specialize in transforming Figma / PSD designs into pixel-perfect WordPress websites, developing custom plugins and reusable components, while leveraging AI-powered workflows using ChatGPT, Cursor, and Gemini to improve productivity, code quality, debugging, and rapid prototyping.
+### 🚀 Senior WordPress Developer • AI-Driven Development • Remote Ready
 
-🔥 Quick Highlights
-🔭 Senior WordPress Developer at ThemeMascot
-💼 9+ Years of Professional WordPress Experience
-✅ Delivered 140+ WordPress Projects
-🎨 Contributed to 42+ Premium ThemeForest Themes
-🔌 Published 2 Plugins on WordPress.org
-🤖 AI-Assisted Development Workflow
-🌍 Open to Remote & International Opportunities
-🛠 Tech Stack
-🧩 WordPress
+<p>
+I build high-performance WordPress solutions, premium themes, custom plugins, and modern SaaS experiences while leveraging AI to deliver faster, cleaner, and smarter digital products.
+</p>
 
-Custom Themes
-Plugin Development
-Gutenberg
-Elementor
-WooCommerce
-ACF
-Custom Widgets
-CPT
+<p>
+<a href="https://md-abu-bakker-siddik.github.io">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
+</a>
 
-🎨 Frontend
+<a href="https://www.linkedin.com/in/md-abu-bakker-siddik">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-HTML5
-CSS3
-SCSS
-JavaScript
-jQuery
-React
-TypeScript
-Responsive Design
+<a href="https://github.com/Md-Abu-Bakker-Siddik">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+</p>
 
-⚙️ Backend & SaaS
+<img src="https://komarev.com/ghpvc/?username=Md-Abu-Bakker-Siddik&style=for-the-badge" />
 
-PHP
-Supabase
-PostgreSQL
-REST API
-Vercel
+</div>
 
-🤖 AI Workflow
+---
 
-ChatGPT
-Cursor
-Gemini
-Prompt Engineering
+## 💫 About Me
 
-📂 Featured Projects
-🔹 Siddik DevKit WooCommerce
+I'm a results-driven **Senior WordPress Developer** with **9+ years of professional experience** building scalable websites and digital products for global clients, agencies, and ThemeForest marketplaces.
+
+I specialize in transforming **Figma and PSD designs into pixel-perfect WordPress experiences**, developing custom plugins, reusable systems, and performance-focused architectures.
+
+I also embrace **AI-powered development workflows** using modern AI tools to improve productivity, accelerate development, enhance debugging, and maintain clean, production-ready code.
+
+---
+
+## 🔥 Quick Highlights
+
+- 💼 **9+ Years of Professional WordPress Experience**
+- 🏢 **Senior WordPress Developer at ThemeMascot**
+- 🚀 **Delivered 140+ Professional Projects**
+- 🎨 **Contributed to 42+ Premium ThemeForest Themes**
+- 🔌 **Published 2 Official WordPress.org Plugins**
+- 🤖 **AI-Assisted Development Workflow**
+- 🌍 **Open to Remote & International Opportunities**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧩 WordPress
+
+![WordPress](https://img.shields.io/badge/WordPress-Expert-21759B?style=for-the-badge&logo=wordpress)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-Advanced-96588A?style=for-the-badge&logo=woocommerce)
+![Elementor](https://img.shields.io/badge/Elementor-Advanced-92003B?style=for-the-badge&logo=elementor)
+![Gutenberg](https://img.shields.io/badge/Gutenberg-Block_Development-21759B?style=for-the-badge)
+![ACF](https://img.shields.io/badge/ACF-Custom_Fields-blue?style=for-the-badge)
+
+`Custom Themes`
+`Plugin Development`
+`Gutenberg`
+`Elementor`
+`WooCommerce`
+`ACF`
+`Custom Widgets`
+`CPT`
+
+---
+
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+`HTML5`
+`CSS3`
+`SCSS`
+`JavaScript`
+`jQuery`
+`React`
+`TypeScript`
+`Responsive Design`
+
+---
+
+### ⚙️ Backend & SaaS
+
+`PHP`
+`REST API`
+`Supabase`
+`PostgreSQL`
+`Vercel`
+
+---
+
+### 🤖 AI-Powered Workflow
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-AI_Assistant-10A37F?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-AI_Editor-D97706?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-AI_Coding-black?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-AI_Workflow-4285F4?style=for-the-badge)
+
+`ChatGPT`
+`Claude`
+`Cursor`
+`Gemini`
+`Prompt Engineering`
+
+---
+
+# 📂 Featured Projects
+
+## 🔹 Siddik DevKit WooCommerce
 
 Official WooCommerce enhancement plugin published on WordPress.org.
 
-🔗 WordPress.org
-https://wordpress.org/plugins/siddik-devkit-woocommerce/
+🔗 https://wordpress.org/plugins/siddik-devkit-woocommerce/
 
-Developed and officially published a WooCommerce enhancement plugin on the WordPress.org Plugin Directory.
-Built utility features to extend WooCommerce functionality and improve store management workflows.
-Followed WordPress coding standards, security best practices, and plugin review guidelines.
-Demonstrated expertise in WooCommerce hooks, filters, and real-world plugin architecture.
-🔹 Siddik Tone Hints
+- Officially approved and published on WordPress.org.
+- Extended WooCommerce functionality through practical utility features.
+- Followed WordPress coding standards and review guidelines.
+- Demonstrated expertise in hooks, filters, and real-world plugin architecture.
 
-Official WordPress.org plugin that provides real-time writing tone suggestions inside the WordPress editor.
+---
 
-🔗 WordPress.org
-https://wordpress.org/plugins/siddik-tone-hints/
+## 🔹 Siddik Tone Hints
 
-Developed and published a custom WordPress plugin on the official WordPress.org Plugin Directory.
-Built real-time writing tone suggestions to improve content quality.
-Followed WordPress coding standards and official review guidelines.
-Demonstrated practical plugin development expertise and editor integration workflows.
-🔹 SmartCV AI
+Real-time writing tone suggestions plugin for WordPress.
 
-AI-powered CV Builder SaaS built with Supabase and PostgreSQL.
+🔗 https://wordpress.org/plugins/siddik-tone-hints/
 
-🔗 GitHub
-https://github.com/Md-Abu-Bakker-Siddik/smartcv-ai
+- Official WordPress.org approved plugin.
+- Provides writing tone suggestions inside the WordPress editor.
+- Built using WordPress best practices.
+- Demonstrates editor integration expertise.
 
-🔗 Live Demo
-https://smartcv-ai-beige.vercel.app/
+---
 
-Built a modern AI-powered CV Builder SaaS.
-Implemented responsive UI and dynamic resume generation.
-Integrated Supabase Authentication and PostgreSQL.
-Explored modern SaaS workflows and deployment using Vercel.
-🔹 Sweem Block
+## 🔹 SmartCV AI
 
-Reusable Gutenberg Block Plugin built with React.
+AI-powered CV Builder SaaS.
 
-🔗 GitHub
-https://github.com/Md-Abu-Bakker-Siddik/sweem-block
+### Links
 
-Developed reusable Gutenberg blocks using React workflows.
-Practiced scalable block architecture.
-Focused on maintainable and component-based development.
-🔹 Six2eight Elements
+- GitHub:
+  https://github.com/Md-Abu-Bakker-Siddik/smartcv-ai
 
-Professional WordPress technical assessment focused on Elementor and Gutenberg workflows.
+- Live Demo:
+  https://smartcv-ai-beige.vercel.app/
 
-🔗 GitHub
-https://github.com/Md-Abu-Bakker-Siddik/six2eight-elements
+### Highlights
 
-Converted Figma designs into responsive WordPress layouts.
-Built reusable Gutenberg blocks.
-Developed advanced Elementor sections.
-Ensured responsive consistency across devices.
-🔹 Vibe UI SaaS
+- Built with Supabase and PostgreSQL.
+- Dynamic resume generation.
+- Responsive SaaS interface.
+- Modern deployment workflow using Vercel.
 
-Modern AI-assisted SaaS Dashboard Prototype.
+---
 
-🔗 GitHub
+## 🔹 Sweem Block
+
+Reusable Gutenberg Block Plugin.
+
+🔗 https://github.com/Md-Abu-Bakker-Siddik/sweem-block
+
+- React-based Gutenberg development.
+- Reusable block architecture.
+- Modern component workflows.
+
+---
+
+## 🔹 Six2eight Elements
+
+Professional WordPress technical assessment.
+
+🔗 https://github.com/Md-Abu-Bakker-Siddik/six2eight-elements
+
+- Figma to WordPress implementation.
+- Gutenberg block creation.
+- Advanced Elementor sections.
+- Fully responsive layouts.
+
+---
+
+## 🔹 Vibe UI SaaS
+
+Modern SaaS dashboard prototype.
+
+GitHub:
 https://github.com/Md-Abu-Bakker-Siddik/vibe-ui-saas
 
-🔗 Live Demo
+Live Demo:
 https://vibe-ui-saas.vercel.app/
 
-Built responsive SaaS dashboard interfaces.
-Developed reusable UI sections.
-Practiced scalable frontend architecture.
-🔹 Starter Plugin
+- Reusable dashboard interfaces.
+- Component-based architecture.
+- Responsive UI implementation.
 
-Scalable WordPress Boilerplate Plugin Architecture.
+---
 
-🔗 GitHub
-https://github.com/Md-Abu-Bakker-Siddik/starter-plugin
+## 🔹 Starter Plugin
 
-Created a modular WordPress plugin starter structure.
-Implemented clean architecture using hooks and filters.
-Designed for reusable plugin development workflows.
-🏢 Experience
-Senior WordPress Developer — ThemeMascot
+Scalable WordPress Boilerplate Plugin.
 
-📅 Jan 2024 – Present
+🔗 https://github.com/Md-Abu-Bakker-Siddik/starter-plugin
 
-Contributed to 42+ premium WordPress themes for ThemeForest marketplaces.
-Built scalable and high-performance WordPress websites.
-Worked extensively with Gutenberg and advanced WordPress architecture.
-Developed Elementor-based solutions and reusable frontend systems.
-Improved development workflows using AI-powered tools.
-Senior WordPress Developer — TemplatePath
+- Modular architecture.
+- Hook-based structure.
+- Reusable plugin workflows.
 
-📅 Jun 2016 – Dec 2023
+---
 
-Delivered 100+ professional WordPress projects.
-Converted complex Figma and PSD designs into responsive WordPress websites.
-Built scalable custom themes and frontend systems.
-Customized Elementor-based websites and reusable sections.
-Collaborated with global teams and managed multiple client requirements.
-🌍 Industries
+# 💼 Professional Experience
 
-Corporate
-Healthcare
-SaaS
-Logistics
-Real Estate
-Premium Templates
-Digital Agencies
-Professional Services
+## Senior WordPress Developer
+### ThemeMascot (Remote)
 
-📫 Connect With Me
+📅 January 2024 – Present
 
+- Contributed to **42+ Premium ThemeForest Themes**
+- Built scalable WordPress architectures
+- Developed Elementor and Gutenberg solutions
+- Worked with WooCommerce and ACF
+- Improved workflows using AI-assisted tools
+
+---
+
+## Senior WordPress Developer
+### TemplatePath (Remote)
+
+📅 June 2016 – December 2023
+
+- Delivered **100+ Professional Projects**
+- Converted Figma and PSD into WordPress
+- Built scalable frontend systems
+- Customized Elementor websites
+- Collaborated with global teams
+
+---
+
+# 🌎 Industries Served
+
+`Corporate`
+`Healthcare`
+`SaaS`
+`Logistics`
+`Real Estate`
+`Digital Agencies`
+`Premium Templates`
+`Professional Services`
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Md-Abu-Bakker-Siddik&show_icons=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Abu-Bakker-Siddik&layout=compact" />
+
+</p>
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://md-abu-bakker-siddik.github.io">
 🌐 Portfolio
-https://md-abu-bakker-siddik.github.io
+</a>
 
+•
+
+<a href="https://www.linkedin.com/in/md-abu-bakker-siddik">
 💼 LinkedIn
-https://www.linkedin.com/in/md-abu-bakker-siddik
+</a>
 
+•
+
+<a href="https://github.com/Md-Abu-Bakker-Siddik">
 💻 GitHub
-https://github.com/Md-Abu-Bakker-Siddik
+</a>
 
-📧 Email
-mdabubakkers99@gmail.com
+</p>
 
-⭐ Fun Fact
+📧 **Email:** mdabubakkers99@gmail.com
 
-I enjoy exploring how AI can enhance traditional WordPress development—helping teams ship faster while maintaining clean, scalable, and production-ready code.
+---
 
-🚀 Open To
-Remote Full-Time Roles
-International Agencies
-Freelance Projects
-Long-Term Collaboration
+# 🚀 Open To
+
+✅ Remote Full-Time Roles
+
+✅ International Agencies
+
+✅ Freelance Projects
+
+✅ Long-Term Collaboration
+
+---
+
+## ⭐ Fun Fact
+
+> I combine traditional WordPress expertise with AI-powered development workflows to build faster, cleaner, and smarter digital solutions.
+
+> I genuinely enjoy exploring how tools like ChatGPT, Claude, Cursor, and Gemini can enhance developer productivity while maintaining high-quality, production-ready code.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 😊
+
+**Let's build something amazing together.**
+
+</div>
