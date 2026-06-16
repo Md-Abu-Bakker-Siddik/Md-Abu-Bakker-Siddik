@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
 
 # 👋 Hi, I'm Md Abu Bakker Siddik
 
